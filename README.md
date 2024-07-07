@@ -170,7 +170,8 @@ docker build . -t (اسم دلخواه)
 docker build . -t arman_fastapi
 ```
 
-![alt text](dockerise.png)
+
+![dockerise](https://github.com/Armani98/UniProject/assets/105940793/abe8bb2b-d754-4c40-b240-7c183ba20dc0)
 
 
 ### و برای اجرای فایل داکرایز شده از دستور:
